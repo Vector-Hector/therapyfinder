@@ -1,0 +1,27 @@
+{
+  "id": "email_987654329",
+  "thread_id": "thread_123456789",
+  "timestamp": "2025-07-19T11:21:05Z",
+  "subject": "Re: Therapy Availability?",
+  "from": {
+    "name": "Dr. Julia Bennett",
+    "email": "julia.bennett@example.com"
+  },
+  "to": [{"name": "Alex Morgan", "email": "alex.morgan@example.com"}],
+  "cc": [],
+  "bcc": [],
+  "in_reply_to": "email_123456789",
+  "references": ["email_123456789"],
+  "body": {
+    "plain": "Hi Alex,\n\nAt the moment I’m not running a private practice and therefore not able to take on new clients. I don’t have a waitlist either—apologies I can’t help directly.\n\nTake care,\nJulia",
+    "html": "<p>Hi Alex,</p><p>At the moment I’m not running a private practice and therefore not able to take on new clients. I don’t have a waitlist either—apologies I can’t help directly.</p><p>Take care,<br>Julia</p>"
+  },
+  "attachments": [],
+  "is_read": true,
+  "labels": ["inbox", "replied"],
+  "reply_summary": {
+    "has_opening": false,
+    "waitlist_offered": false,
+    "estimated_wait_time_weeks": null
+  }
+}

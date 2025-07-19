@@ -20,7 +20,7 @@
     "email_123456789"
   ],
   "body": {
-    "plain": "Hi Alex,\n\nThank you for your message. At the moment, I don’t have any openings for new clients. I’d be happy to add you to my waitlist and reach out as soon as a spot becomes available.\n\nLet me know if that works for you.\n\nBest,\nJulia",
+    "plain": "Hi Alex,\n\nThank you for your message. At the moment, I don’t have any openings for new clients. I’d be happy to add you to my waitlist (12+ months waiting time) and reach out as soon as a spot becomes available.\n\nLet me know if that works for you.\n\nBest,\nJulia",
     "html": "<p>Hi Alex,</p><p>Thank you for your message. At the moment, I don’t have any openings for new clients. I’d be happy to add you to my waitlist and reach out as soon as a spot becomes available.</p><p>Let me know if that works for you.</p><p>Best,<br>Julia</p>"
   },
   "attachments": [],

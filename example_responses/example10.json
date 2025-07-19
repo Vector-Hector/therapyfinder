@@ -1,0 +1,27 @@
+{
+  "id": "email_987654332",
+  "thread_id": "thread_123456789",
+  "timestamp": "2025-07-19T11:25:10Z",
+  "subject": "Re: Therapy Availability?",
+  "from": {
+    "name": "Dr. Julia Bennett",
+    "email": "julia.bennett@example.com"
+  },
+  "to": [{"name": "Alex Morgan", "email": "alex.morgan@example.com"}],
+  "cc": [],
+  "bcc": [],
+  "in_reply_to": "email_123456789",
+  "references": ["email_123456789"],
+  "body": {
+    "plain": "Hi Alex,\n\nI’m currently fully booked with no foreseeable openings. I'm happy to note your name for future reference, but please know it's a long wait with no set timeline.\n\nAll my best,\nJulia",
+    "html": "<p>Hi Alex,</p><p>I’m currently fully booked with no foreseeable openings. I'm happy to note your name for future reference, but please know it's a long wait with no set timeline.</p><p>All my best,<br>Julia</p>"
+  },
+  "attachments": [],
+  "is_read": true,
+  "labels": ["inbox", "replied"],
+  "reply_summary": {
+    "has_opening": false,
+    "waitlist_offered": true,
+    "estimated_wait_time_weeks": null
+  }
+}
