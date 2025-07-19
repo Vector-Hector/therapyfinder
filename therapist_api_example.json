@@ -1,0 +1,2734 @@
+[
+  {
+    "st": "Street 57",
+    "ha": "31",
+    "pl": "90538",
+    "c": 2,
+    "d": "1,32 km",
+    "o": "City",
+    "lat": 54.788336,
+    "lon": 12.861411,
+    "id": 70064,
+    "s": "M",
+    "bf": [
+      {
+        "c": 102,
+        "b": "Praxisräume für Personen mit Gehhilfe zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "470"
+    ],
+    "fs": [],
+    "zb": [],
+    "ss": [
+      {
+        "t": 1,
+        "v": "13:00",
+        "b": "14:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 4,
+        "v": "08:35",
+        "b": "09:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 2,
+        "v": "09:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 1,
+        "v": "10:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 1,
+        "v": "14:00",
+        "b": "17:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 2,
+        "v": "08:35",
+        "b": "09:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 4,
+        "v": "14:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 3,
+        "v": "08:35",
+        "b": "09:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 3,
+        "v": "09:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 4,
+        "v": "09:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "12.02.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      }
+    ],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "A",
+        "pta": "E",
+        "pts": "E"
+      },
+      {
+        "ptv": "T",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anon8d4acd",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "t": "Dipl.-Psych.",
+    "ffgs": [
+      "470"
+    ],
+    "fgs": [
+      "Psychologischer Psychotherapeut"
+    ],
+    "fach": "Psychologischer Psychotherapeut",
+    "bff": "Praxisräume für Personen mit Gehhilfe zugänglich",
+    "fss": "",
+    "zbb": "",
+    "sss": [
+      {
+        "day": "Montag",
+        "hours": [
+          {
+            "t": 1,
+            "v": "10:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 1,
+            "v": "13:00",
+            "b": "14:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 1,
+            "v": "14:00",
+            "b": "17:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 3
+      },
+      {
+        "day": "Dienstag",
+        "hours": [
+          {
+            "t": 2,
+            "v": "08:35",
+            "b": "09:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 2,
+            "v": "09:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Mittwoch",
+        "hours": [
+          {
+            "t": 3,
+            "v": "08:35",
+            "b": "09:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 3,
+            "v": "09:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "08:35",
+            "b": "09:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 4,
+            "v": "09:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 4,
+            "v": "14:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "12.02.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 3
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Analytische Psychotherapie",
+        "pts": "Einzeltherapie"
+      },
+      {
+        "pta": "Erwachsene",
+        "ptv": "Tiefenpsychologisch fundierte Psychotherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 54",
+    "ha": "22",
+    "pl": "62309",
+    "c": 2,
+    "d": "1,32 km",
+    "o": "City",
+    "lat": 52.274704,
+    "lon": 13.636441,
+    "id": 486,
+    "s": "F",
+    "bf": [
+      {
+        "c": 104,
+        "b": "Praxisräume nicht barrierefrei zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "470"
+    ],
+    "fs": [],
+    "zb": [],
+    "ss": [
+      {
+        "t": 2,
+        "v": "14:00",
+        "b": "19:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.12.2003",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 4,
+        "v": "09:30",
+        "b": "10:20",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.04.2017",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 1,
+        "v": "09:30",
+        "b": "10:20",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.04.2017",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 3,
+        "v": "09:30",
+        "b": "10:20",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.04.2017",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 3,
+        "v": "14:00",
+        "b": "19:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.12.2003",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 4,
+        "v": "14:00",
+        "b": "19:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.12.2003",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 1,
+        "v": "14:00",
+        "b": "19:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.12.2003",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 2,
+        "v": "09:30",
+        "b": "10:20",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.04.2017",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      }
+    ],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "T",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anon49bd34",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "t": "Dipl.-Psych.",
+    "ffgs": [
+      "470"
+    ],
+    "fgs": [
+      "Psychologische Psychotherapeutin"
+    ],
+    "fach": "Psychologische Psychotherapeutin",
+    "bff": "Praxisräume nicht barrierefrei zugänglich",
+    "fss": "",
+    "zbb": "",
+    "sss": [
+      {
+        "day": "Montag",
+        "hours": [
+          {
+            "t": 1,
+            "v": "09:30",
+            "b": "10:20",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.04.2017",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 1,
+            "v": "14:00",
+            "b": "19:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.12.2003",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Dienstag",
+        "hours": [
+          {
+            "t": 2,
+            "v": "09:30",
+            "b": "10:20",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.04.2017",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 2,
+            "v": "14:00",
+            "b": "19:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.12.2003",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Mittwoch",
+        "hours": [
+          {
+            "t": 3,
+            "v": "09:30",
+            "b": "10:20",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.04.2017",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 3,
+            "v": "14:00",
+            "b": "19:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.12.2003",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "09:30",
+            "b": "10:20",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.04.2017",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 4,
+            "v": "14:00",
+            "b": "19:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.12.2003",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Tiefenpsychologisch fundierte Psychotherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 52",
+    "ha": "38",
+    "pl": "76851",
+    "c": 1,
+    "d": "1,79 km",
+    "o": "City",
+    "lat": 53.119692,
+    "lon": 10.242937,
+    "id": 99457,
+    "s": "F",
+    "bf": [
+      {
+        "c": 104,
+        "b": "Praxisräume nicht barrierefrei zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "144"
+    ],
+    "fs": [
+      "07",
+      "16",
+      "03"
+    ],
+    "zb": [],
+    "ss": [
+      {
+        "t": 2,
+        "v": "08:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "09.07.2018",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 4,
+        "v": "10:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "17.07.2018",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 1,
+        "v": "08:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "09.07.2018",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 1,
+        "v": "10:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "17.07.2018",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 4,
+        "v": "08:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "09.07.2018",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 3,
+        "v": "10:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "17.07.2018",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 3,
+        "v": "08:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "09.07.2018",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 5,
+        "v": "08:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "09.07.2018",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 2,
+        "v": "10:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "17.07.2018",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 5,
+        "v": "10:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "17.07.2018",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      }
+    ],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "T",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anon382c6b",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "ffgs": [
+      "144"
+    ],
+    "fgs": [
+      "Psychotherap. tätige Ärztin"
+    ],
+    "fach": "Psychotherap. tätige Ärztin",
+    "bff": "Praxisräume nicht barrierefrei zugänglich",
+    "fss": "Italienisch, Spanisch, Englisch",
+    "zbb": "",
+    "sss": [
+      {
+        "day": "Montag",
+        "hours": [
+          {
+            "t": 1,
+            "v": "08:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "09.07.2018",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 1,
+            "v": "10:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "17.07.2018",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Dienstag",
+        "hours": [
+          {
+            "t": 2,
+            "v": "08:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "09.07.2018",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 2,
+            "v": "10:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "17.07.2018",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Mittwoch",
+        "hours": [
+          {
+            "t": 3,
+            "v": "08:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "09.07.2018",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 3,
+            "v": "10:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "17.07.2018",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "08:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "09.07.2018",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 4,
+            "v": "10:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "17.07.2018",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Freitag",
+        "hours": [
+          {
+            "t": 5,
+            "v": "08:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "09.07.2018",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 5,
+            "v": "10:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "17.07.2018",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 2
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Tiefenpsychologisch fundierte Psychotherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 8",
+    "ha": "72",
+    "pl": "73336",
+    "c": 1,
+    "d": "1,82 km",
+    "o": "City",
+    "lat": 52.8891,
+    "lon": 11.303481,
+    "id": 54591,
+    "s": "M",
+    "bf": [],
+    "fg": [
+      "010",
+      "144"
+    ],
+    "fs": [
+      "04",
+      "03"
+    ],
+    "zb": [
+      "060",
+      "041"
+    ],
+    "ss": [],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "A",
+        "pta": "E",
+        "pts": "E"
+      },
+      {
+        "ptv": "T",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anon80b97c",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "t": "Dr.",
+    "ffgs": [
+      "010",
+      "144"
+    ],
+    "fgs": [
+      "Facharzt für Allgemeinmedizin",
+      "Psychotherap. tätiger Arzt"
+    ],
+    "fach": "Facharzt für Allgemeinmedizin, Psychotherap. tätiger Arzt",
+    "bff": "",
+    "fss": "Französisch, Englisch",
+    "zbb": "Psychotherapie, Psychoanalyse",
+    "sss": [],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Analytische Psychotherapie",
+        "pts": "Einzeltherapie"
+      },
+      {
+        "pta": "Erwachsene",
+        "ptv": "Tiefenpsychologisch fundierte Psychotherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 60",
+    "ha": "68",
+    "pl": "99029",
+    "c": 1,
+    "d": "1,92 km",
+    "o": "City",
+    "lat": 54.208187,
+    "lon": 12.09424,
+    "id": 99950,
+    "s": "F",
+    "bf": [
+      {
+        "c": 302,
+        "b": "Kommunikation über SMS, Fax oder E-Mail",
+        "d": null
+      },
+      {
+        "c": 202,
+        "b": "Bedingt rollstuhlgeeignetes WC vorhanden",
+        "d": null
+      },
+      {
+        "c": 401,
+        "b": "Behindertenparkplatz",
+        "d": null
+      },
+      {
+        "c": 101,
+        "b": "Praxisräume für Rollstuhlfahrende zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "470"
+    ],
+    "fs": [],
+    "zb": [],
+    "ss": [
+      {
+        "t": 4,
+        "v": "08:00",
+        "b": "12:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.04.2017",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 4,
+        "v": "13:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.04.2017",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 4,
+        "v": "13:30",
+        "b": "14:20",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "22.05.2018",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 1,
+        "v": "13:00",
+        "b": "13:50",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "22.05.2018",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 2,
+        "v": "08:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.04.2017",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 1,
+        "v": "09:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.04.2017",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 1,
+        "v": "14:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.04.2017",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 2,
+        "v": "12:00",
+        "b": "12:50",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "22.05.2018",
+        "gueBis": null,
+        "typ": "Psych. Sprechstunde mit Termin"
+      }
+    ],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "V",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anond372a9",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "t": "Dipl.-Psych.",
+    "ffgs": [
+      "470"
+    ],
+    "fgs": [
+      "Psychologische Psychotherapeutin"
+    ],
+    "fach": "Psychologische Psychotherapeutin",
+    "bff": "Kommunikation über SMS, Fax oder E-Mail, Bedingt rollstuhlgeeignetes WC vorhanden, Behindertenparkplatz, Praxisräume für Rollstuhlfahrende zugänglich",
+    "fss": "",
+    "zbb": "",
+    "sss": [
+      {
+        "day": "Montag",
+        "hours": [
+          {
+            "t": 1,
+            "v": "09:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.04.2017",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          },
+          {
+            "t": 1,
+            "v": "13:00",
+            "b": "13:50",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "22.05.2018",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 1,
+            "v": "14:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.04.2017",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 3
+      },
+      {
+        "day": "Dienstag",
+        "hours": [
+          {
+            "t": 2,
+            "v": "08:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.04.2017",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          },
+          {
+            "t": 2,
+            "v": "12:00",
+            "b": "12:50",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "22.05.2018",
+            "gueBis": null,
+            "typ": "Psych. Sprechstunde mit Termin"
+          }
+        ],
+        "hourssize": 2
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "08:00",
+            "b": "12:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.04.2017",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          },
+          {
+            "t": 4,
+            "v": "13:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.04.2017",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          },
+          {
+            "t": 4,
+            "v": "13:30",
+            "b": "14:20",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "22.05.2018",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          }
+        ],
+        "hourssize": 3
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Verhaltenstherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 19",
+    "ha": "28",
+    "pl": "60242",
+    "c": 2,
+    "d": "2,04 km",
+    "o": "City",
+    "lat": 53.295404,
+    "lon": 12.711565,
+    "id": 90035,
+    "s": "F",
+    "bf": [
+      {
+        "c": 103,
+        "b": "Praxisräume für Personen mit Gehhilfe weitgehend zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "142",
+      "144",
+      "147"
+    ],
+    "fs": [],
+    "zb": [],
+    "ss": [
+      {
+        "t": 4,
+        "v": "15:00",
+        "b": "15:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 5,
+        "v": "09:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 1,
+        "v": "08:00",
+        "b": "09:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 1,
+        "v": "09:00",
+        "b": "13:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 5,
+        "v": "08:00",
+        "b": "09:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 2,
+        "v": "15:30",
+        "b": "18:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 1,
+        "v": "15:00",
+        "b": "18:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 4,
+        "v": "09:00",
+        "b": "13:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 4,
+        "v": "08:00",
+        "b": "09:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 4,
+        "v": "15:30",
+        "b": "18:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 2,
+        "v": "08:00",
+        "b": "09:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 2,
+        "v": "09:00",
+        "b": "13:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 2,
+        "v": "15:00",
+        "b": "15:30",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "08.02.2023",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      }
+    ],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "V",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anon279ede",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "t": "Dr.",
+    "ffgs": [
+      "142",
+      "144",
+      "147"
+    ],
+    "fgs": [
+      "Fachärztin für Neurologie",
+      "Psychotherap. tätige Ärztin",
+      "Fachärztin für Psychiatrie und Psychotherapie"
+    ],
+    "fach": "Fachärztin für Neurologie, Psychotherap. tätige Ärztin, Fachärztin für Psychiatrie und Psychotherapie",
+    "bff": "Praxisräume für Personen mit Gehhilfe weitgehend zugänglich",
+    "fss": "",
+    "zbb": "",
+    "sss": [
+      {
+        "day": "Montag",
+        "hours": [
+          {
+            "t": 1,
+            "v": "08:00",
+            "b": "09:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 1,
+            "v": "09:00",
+            "b": "13:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 1,
+            "v": "15:00",
+            "b": "18:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 3
+      },
+      {
+        "day": "Dienstag",
+        "hours": [
+          {
+            "t": 2,
+            "v": "08:00",
+            "b": "09:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 2,
+            "v": "09:00",
+            "b": "13:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 2,
+            "v": "15:00",
+            "b": "15:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 2,
+            "v": "15:30",
+            "b": "18:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 4
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "08:00",
+            "b": "09:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 4,
+            "v": "09:00",
+            "b": "13:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 4,
+            "v": "15:00",
+            "b": "15:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 4,
+            "v": "15:30",
+            "b": "18:30",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 4
+      },
+      {
+        "day": "Freitag",
+        "hours": [
+          {
+            "t": 5,
+            "v": "08:00",
+            "b": "09:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 5,
+            "v": "09:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "08.02.2023",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 2
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Verhaltenstherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 96",
+    "ha": "14",
+    "pl": "82027",
+    "c": 2,
+    "d": "2,04 km",
+    "o": "City",
+    "lat": 51.258317,
+    "lon": 13.012015,
+    "id": 17702,
+    "s": "F",
+    "bf": [
+      {
+        "c": 302,
+        "b": "Kommunikation über SMS, Fax oder E-Mail",
+        "d": null
+      },
+      {
+        "c": 401,
+        "b": "Behindertenparkplatz",
+        "d": null
+      },
+      {
+        "c": 102,
+        "b": "Praxisräume für Personen mit Gehhilfe zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "144"
+    ],
+    "fs": [
+      "03"
+    ],
+    "zb": [
+      "060"
+    ],
+    "ss": [
+      {
+        "t": 5,
+        "v": "18:00",
+        "b": "18:50",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.01.2025",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 1,
+        "v": "18:00",
+        "b": "18:50",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.01.2025",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 5,
+        "v": "08:00",
+        "b": "16:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.01.2025",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 2,
+        "v": "08:00",
+        "b": "16:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.01.2025",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 3,
+        "v": "08:00",
+        "b": "16:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.01.2025",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 4,
+        "v": "08:00",
+        "b": "16:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.01.2025",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      }
+    ],
+    "w": "http://www.pt-schaeffer.de",
+    "pt": [
+      {
+        "ptv": "T",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anon5b7e30",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "t": "Dr.",
+    "ffgs": [
+      "144"
+    ],
+    "fgs": [
+      "Psychotherap. tätige Ärztin"
+    ],
+    "fach": "Psychotherap. tätige Ärztin",
+    "bff": "Kommunikation über SMS, Fax oder E-Mail, Behindertenparkplatz, Praxisräume für Personen mit Gehhilfe zugänglich",
+    "fss": "Englisch",
+    "zbb": "Psychotherapie",
+    "sss": [
+      {
+        "day": "Montag",
+        "hours": [
+          {
+            "t": 1,
+            "v": "18:00",
+            "b": "18:50",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.01.2025",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          }
+        ],
+        "hourssize": 1
+      },
+      {
+        "day": "Dienstag",
+        "hours": [
+          {
+            "t": 2,
+            "v": "08:00",
+            "b": "16:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.01.2025",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 1
+      },
+      {
+        "day": "Mittwoch",
+        "hours": [
+          {
+            "t": 3,
+            "v": "08:00",
+            "b": "16:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.01.2025",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 1
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "08:00",
+            "b": "16:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.01.2025",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 1
+      },
+      {
+        "day": "Freitag",
+        "hours": [
+          {
+            "t": 5,
+            "v": "08:00",
+            "b": "16:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.01.2025",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 5,
+            "v": "18:00",
+            "b": "18:50",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.01.2025",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          }
+        ],
+        "hourssize": 2
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Tiefenpsychologisch fundierte Psychotherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 82",
+    "ha": "32",
+    "pl": "95573",
+    "c": 1,
+    "d": "2,19 km",
+    "o": "City",
+    "lat": 53.44636,
+    "lon": 10.169245,
+    "id": 30853,
+    "s": "F",
+    "bf": [
+      {
+        "c": 102,
+        "b": "Praxisräume für Personen mit Gehhilfe zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "470"
+    ],
+    "fs": [
+      "03"
+    ],
+    "zb": [],
+    "ss": [
+      {
+        "t": 3,
+        "v": "14:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "06.09.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 5,
+        "v": "09:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "06.09.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 4,
+        "v": "08:00",
+        "b": "09:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "06.09.2024",
+        "gueBis": null,
+        "typ": "Psych. Sprechstunde mit Termin"
+      },
+      {
+        "t": 4,
+        "v": "13:00",
+        "b": "14:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "06.09.2024",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 4,
+        "v": "14:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "06.09.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 5,
+        "v": "13:00",
+        "b": "14:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "06.09.2024",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      },
+      {
+        "t": 5,
+        "v": "14:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "06.09.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 4,
+        "v": "09:00",
+        "b": "13:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "06.09.2024",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      }
+    ],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "T",
+        "pta": "E",
+        "pts": "E"
+      },
+      {
+        "ptv": "T",
+        "pta": "E",
+        "pts": "G"
+      }
+    ],
+    "n": "Anon2c08f4",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "t": "Dipl.-Psych.",
+    "ffgs": [
+      "470"
+    ],
+    "fgs": [
+      "Psychologische Psychotherapeutin"
+    ],
+    "fach": "Psychologische Psychotherapeutin",
+    "bff": "Praxisräume für Personen mit Gehhilfe zugänglich",
+    "fss": "Englisch",
+    "zbb": "",
+    "sss": [
+      {
+        "day": "Mittwoch",
+        "hours": [
+          {
+            "t": 3,
+            "v": "14:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "06.09.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 1
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "08:00",
+            "b": "09:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "06.09.2024",
+            "gueBis": null,
+            "typ": "Psych. Sprechstunde mit Termin"
+          },
+          {
+            "t": 4,
+            "v": "09:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "06.09.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 4,
+            "v": "13:00",
+            "b": "14:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "06.09.2024",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 4,
+            "v": "14:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "06.09.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 4
+      },
+      {
+        "day": "Freitag",
+        "hours": [
+          {
+            "t": 5,
+            "v": "09:00",
+            "b": "13:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "06.09.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 5,
+            "v": "13:00",
+            "b": "14:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "06.09.2024",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          },
+          {
+            "t": 5,
+            "v": "14:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "06.09.2024",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 3
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Tiefenpsychologisch fundierte Psychotherapie",
+        "pts": "Einzeltherapie"
+      },
+      {
+        "pta": "Erwachsene",
+        "ptv": "Tiefenpsychologisch fundierte Psychotherapie",
+        "pts": "Gruppentherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 33",
+    "ha": "42",
+    "pl": "75024",
+    "c": 1,
+    "d": "2,42 km",
+    "o": "City",
+    "lat": 52.423871,
+    "lon": 10.914164,
+    "id": 26780,
+    "s": "M",
+    "bf": [
+      {
+        "c": 302,
+        "b": "Kommunikation über SMS, Fax oder E-Mail",
+        "d": null
+      },
+      {
+        "c": 202,
+        "b": "Bedingt rollstuhlgeeignetes WC vorhanden",
+        "d": null
+      },
+      {
+        "c": 101,
+        "b": "Praxisräume für Rollstuhlfahrende zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "144",
+      "147"
+    ],
+    "fs": [
+      "03"
+    ],
+    "zb": [],
+    "ss": [
+      {
+        "t": 2,
+        "v": "15:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 5,
+        "v": "09:00",
+        "b": "10:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 5,
+        "v": "10:00",
+        "b": "12:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 1,
+        "v": "15:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 3,
+        "v": "15:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 2,
+        "v": "09:00",
+        "b": "10:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 1,
+        "v": "09:00",
+        "b": "10:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 2,
+        "v": "10:00",
+        "b": "12:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 1,
+        "v": "10:00",
+        "b": "12:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 3,
+        "v": "10:00",
+        "b": "12:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 3,
+        "v": "09:00",
+        "b": "10:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 4,
+        "v": "15:00",
+        "b": "18:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 4,
+        "v": "09:00",
+        "b": "10:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Offene Sprechstunde"
+      },
+      {
+        "t": 4,
+        "v": "10:00",
+        "b": "12:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "01.01.2022",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      }
+    ],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "T",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anon2814b9",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "ffgs": [
+      "144",
+      "147"
+    ],
+    "fgs": [
+      "Psychotherap. tätiger Arzt",
+      "Facharzt für Psychiatrie und Psychotherapie"
+    ],
+    "fach": "Psychotherap. tätiger Arzt, Facharzt für Psychiatrie und Psychotherapie",
+    "bff": "Kommunikation über SMS, Fax oder E-Mail, Bedingt rollstuhlgeeignetes WC vorhanden, Praxisräume für Rollstuhlfahrende zugänglich",
+    "fss": "Englisch",
+    "zbb": "",
+    "sss": [
+      {
+        "day": "Montag",
+        "hours": [
+          {
+            "t": 1,
+            "v": "09:00",
+            "b": "10:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 1,
+            "v": "10:00",
+            "b": "12:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 1,
+            "v": "15:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 3
+      },
+      {
+        "day": "Dienstag",
+        "hours": [
+          {
+            "t": 2,
+            "v": "09:00",
+            "b": "10:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 2,
+            "v": "10:00",
+            "b": "12:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 2,
+            "v": "15:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 3
+      },
+      {
+        "day": "Mittwoch",
+        "hours": [
+          {
+            "t": 3,
+            "v": "09:00",
+            "b": "10:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 3,
+            "v": "10:00",
+            "b": "12:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 3,
+            "v": "15:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 3
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "09:00",
+            "b": "10:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 4,
+            "v": "10:00",
+            "b": "12:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          },
+          {
+            "t": 4,
+            "v": "15:00",
+            "b": "18:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 3
+      },
+      {
+        "day": "Freitag",
+        "hours": [
+          {
+            "t": 5,
+            "v": "09:00",
+            "b": "10:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Offene Sprechstunde"
+          },
+          {
+            "t": 5,
+            "v": "10:00",
+            "b": "12:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "01.01.2022",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 2
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Tiefenpsychologisch fundierte Psychotherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  },
+  {
+    "st": "Street 87",
+    "ha": "58",
+    "pl": "88494",
+    "c": 2,
+    "d": "2,47 km",
+    "o": "City",
+    "lat": 52.40586,
+    "lon": 10.874471,
+    "id": 34135,
+    "s": "M",
+    "bf": [
+      {
+        "c": 104,
+        "b": "Praxisräume nicht barrierefrei zugänglich",
+        "d": null
+      }
+    ],
+    "fg": [
+      "470"
+    ],
+    "fs": [
+      "16",
+      "03"
+    ],
+    "zb": [],
+    "ss": [
+      {
+        "t": 4,
+        "v": "09:00",
+        "b": "17:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.07.2025",
+        "gueBis": null,
+        "typ": "Sprechzeiten"
+      },
+      {
+        "t": 1,
+        "v": "12:00",
+        "b": "17:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.07.2025",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 5,
+        "v": "09:00",
+        "b": "15:00",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.07.2025",
+        "gueBis": null,
+        "typ": "Sprechzeiten mit Termin"
+      },
+      {
+        "t": 2,
+        "v": "14:50",
+        "b": "15:40",
+        "f": null,
+        "dVon": null,
+        "dBis": null,
+        "gueVon": "07.07.2025",
+        "gueBis": null,
+        "typ": "Telefonische Erreichbarkeit"
+      }
+    ],
+    "w": "",
+    "pt": [
+      {
+        "ptv": "V",
+        "pta": "E",
+        "pts": "E"
+      }
+    ],
+    "n": "Anon313a9c",
+    "v": "A.",
+    "e": "anon@example.com",
+    "te": "000 0000000",
+    "f": "000 0000000",
+    "t": "Dipl.-Psych.",
+    "ffgs": [
+      "470"
+    ],
+    "fgs": [
+      "Psychologischer Psychotherapeut"
+    ],
+    "fach": "Psychologischer Psychotherapeut",
+    "bff": "Praxisräume nicht barrierefrei zugänglich",
+    "fss": "Spanisch, Englisch",
+    "zbb": "",
+    "sss": [
+      {
+        "day": "Montag",
+        "hours": [
+          {
+            "t": 1,
+            "v": "12:00",
+            "b": "17:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.07.2025",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 1
+      },
+      {
+        "day": "Dienstag",
+        "hours": [
+          {
+            "t": 2,
+            "v": "14:50",
+            "b": "15:40",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.07.2025",
+            "gueBis": null,
+            "typ": "Telefonische Erreichbarkeit"
+          }
+        ],
+        "hourssize": 1
+      },
+      {
+        "day": "Donnerstag",
+        "hours": [
+          {
+            "t": 4,
+            "v": "09:00",
+            "b": "17:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.07.2025",
+            "gueBis": null,
+            "typ": "Sprechzeiten"
+          }
+        ],
+        "hourssize": 1
+      },
+      {
+        "day": "Freitag",
+        "hours": [
+          {
+            "t": 5,
+            "v": "09:00",
+            "b": "15:00",
+            "f": null,
+            "dVon": null,
+            "dBis": null,
+            "gueVon": "07.07.2025",
+            "gueBis": null,
+            "typ": "Sprechzeiten mit Termin"
+          }
+        ],
+        "hourssize": 1
+      }
+    ],
+    "sonss": [],
+    "name": "Anon Person",
+    "ptv": false,
+    "pta": false,
+    "pts": false,
+    "ptt": [
+      {
+        "pta": "Erwachsene",
+        "ptv": "Verhaltenstherapie",
+        "pts": "Einzeltherapie"
+      }
+    ]
+  }
+]
