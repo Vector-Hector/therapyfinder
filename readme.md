@@ -22,6 +22,4 @@ timeout of 7 days. This process is simplified for demonstration purposes to a du
 api call simulated through choosing a random document in [example_responses](./example_responses).
 Timeout is 30% probability as well.
 
-A GPT model then interprets and categorizes the therapist's responses. Finally,
-it will output a report pdf to the user. In case there is no therapist with a
-therapy spot available, 
+**Important**: Don't use this in production. It uses lots of external APIs, which would likely violate GDPR compliance or their TOS in case you send actual healthcare data from users using this code
